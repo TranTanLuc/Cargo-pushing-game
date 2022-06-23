@@ -1,0 +1,80 @@
+27/11/2021 17:18:16 PM
+test case: Testcases/MINI COSMOS/2.txt
+algorithm: A star
+loi giai: R, R, U, U, L, L, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, U, R, R, R, D, D, L, L, D, L, L, U, D, R, R, U, U, L, U, U, L, L, D, D, R, R, U, R, D
+so buoc: 60
+so node duoc sinh: 1382
+so node lap: 741
+so node mo rong: 642
+bo nho: 3.046875 MB
+thoi gian: 0.016002178192138672 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 23/10/2021 21:35:55 PM
+Problem: Testcases/MINI COSMOS/2.txt
+Algorithm: A star
+Solution: R, R, U, U, L, L, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, U, R, R, R, D, D, L, L, D, L, L, U, D, R, R, U, U, L, U, U, L, L, D, D, R, R, U, R, D
+Number of steps: 60
+Nodes generated: 1382
+Nodes repeated: 741
+Nodes explored: 642
+Memory: 3.2578125 MB
+Duration: 0.014964818954467773 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 23/10/2021 21:35:25 PM
+Problem: Testcases/MINI COSMOS/2.txt
+Algorithm: Breadth First Search
+Solution: R, R, U, U, L, L, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, U, R, R, R, D, D, L, L, D, L, L, U, D, R, R, U, U, L, U, U, L, L, D, D, R, R, U, R, D
+Number of steps: 60
+Nodes generated: 1444
+Nodes repeated: 775
+Nodes explored: 670
+Memory: 3.1484375 MB
+Duration: 0.0059702396392822266 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 23/10/2021 21:35:19 PM
+Problem: Testcases/MINI COSMOS/2.txt
+Algorithm: Breadth First Search
+Solution: R, R, U, U, L, L, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, U, R, R, R, D, D, L, L, D, L, L, U, D, R, R, U, U, L, U, U, L, L, D, D, R, R, U, R, D
+Number of steps: 60
+Nodes generated: 1444
+Nodes repeated: 775
+Nodes explored: 670
+Memory: 3.08203125 MB
+Duration: 0.005034446716308594 secs
+
+
+===================================================
+===================================================
+
+
+Datatime (UTC+7): 23/10/2021 10:55:11 AM
+Problem: Testcases/MINI COSMOS/2.txt
+Algorithm: Breadth First Search
+Solution: R, R, U, U, L, L, L, U, U, R, L, D, D, R, R, U, R, R, U, U, L, L, D, D, U, L, L, D, D, R, R, U, R, R, R, D, D, L, L, D, L, L, U, D, R, R, U, U, L, U, U, L, L, D, D, R, R, U, R, D
+Number of steps: 60
+Nodes generated: 1444
+Nodes repeated: 775
+Nodes explored: 670
+Memory: 2.89453125 MB
+Duration: 0.004638195037841797 secs
+
+
+===================================================
+===================================================
+
+

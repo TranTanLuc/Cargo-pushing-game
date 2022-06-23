@@ -1,0 +1,16 @@
+03/02/2022 14:52:33 PM
+test case: Testcases/MINI COSMOS/3.txt
+algorithm: Breadth First Search
+loi giai: R, R, U, U, L, L, L, U, U, R, L, D, D, R, R, R, D, D, L, L, U, D, R, R, U, U, U, R, R, D, D, L, R, U, U, L, U, U, L, L, D, L, L, D, D, R, D, D, R, R, U, U, D, D, L, L, U, U, R, L, L, U, U, R, R, D, R, D, L
+so buoc: 69
+so node duoc sinh: 2657
+so node lap: 1426
+so node mo rong: 1232
+bo nho: 3.12890625 MB
+thoi gian: 0.009039878845214844 secs
+
+
+===================================================
+===================================================
+
+
